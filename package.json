@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jimCresswell/playing-with-karma/issues"
   },
-  "homepage": "https://github.com/jimCresswell/playing-with-karma"
+  "homepage": "https://github.com/jimCresswell/playing-with-karma",
+  "dependencies": {
+    "karma": "^0.12.16"
+  }
 }
