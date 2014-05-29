@@ -1,0 +1,20 @@
+{
+  "name": "playing-with-karma",
+  "private": true,
+  "version": "0.0.0",
+  "description": "playing-with-karma ==================",
+  "main": " ",
+  "scripts": {
+    "test": "'karma start'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jimCresswell/playing-with-karma.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimCresswell/playing-with-karma/issues"
+  },
+  "homepage": "https://github.com/jimCresswell/playing-with-karma"
+}
