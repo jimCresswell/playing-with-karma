@@ -2,10 +2,10 @@
   "name": "playing-with-karma",
   "private": true,
   "version": "0.0.0",
-  "description": "playing-with-karma ==================",
+  "description": "playing-with-karma",
   "main": " ",
   "scripts": {
-    "test": "'karma start'"
+    "test": "karma start"
   },
   "repository": {
     "type": "git",
